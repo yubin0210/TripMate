@@ -51,6 +51,7 @@ body {
 /* 기능 섹션 */
 .features {
 	display: flex;
+	height: 300px;
 	justify-content: space-around;
 	padding: 40px 20px;
 	background-color: #ffffff;
